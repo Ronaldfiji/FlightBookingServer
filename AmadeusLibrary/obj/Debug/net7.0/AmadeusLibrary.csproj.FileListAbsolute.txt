@@ -1,0 +1,12 @@
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\bin\Debug\net7.0\AmadeusLibrary.deps.json
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\bin\Debug\net7.0\AmadeusLibrary.dll
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\bin\Debug\net7.0\AmadeusLibrary.pdb
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\AmadeusLibrary.csproj.AssemblyReference.cache
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\AmadeusLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\AmadeusLibrary.AssemblyInfoInputs.cache
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\AmadeusLibrary.AssemblyInfo.cs
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\AmadeusLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\AmadeusLibrary.dll
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\refint\AmadeusLibrary.dll
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\AmadeusLibrary.pdb
+C:\Users\Ron\Desktop\Flight-IBE-App\Staging\AmadeusLibrary\obj\Debug\net7.0\ref\AmadeusLibrary.dll

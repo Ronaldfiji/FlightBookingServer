@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9GLnfLQP02MYVXR5S2aFZj8CglkDCQnWtjceDnQg/3H8qjd0Uqvr+OsSB9CFtBo+0VcjYw/i2j5qQiuJ7Rs9og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ron\\Desktop\\Flight-IBE-App\\Staging\\AmadeusLibrary\\AmadeusLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ron\\.nuget\\packages\\afonsoft.amadeus\\2.1.2\\afonsoft.amadeus.2.1.2.nupkg.sha512",
+    "C:\\Users\\Ron\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.2.0\\microsoft.extensions.logging.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Ron\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
